@@ -2,7 +2,7 @@ code/
 data/
 *.csv
 secret/
-
+data.zip
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
